@@ -10,3 +10,21 @@
     color: white;
     padding: 10px;
 }
+#para1 {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+#para2 {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+#para3 {
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px;
+}
+*{
+    background-image: linear-gradient(to right top, #894f70, #8f6689, #957e9f, #9d94b0, #a9aabf, #a6aec1, #a5b2c3, #a5b6c3, #8dabb8, #75a0aa, #5e9499, #4a8985);
+}
