@@ -2,7 +2,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Arial;
 }
 #navbar {
     background-color: #333;
@@ -16,6 +15,7 @@
     text-align: center;
     display: block;
     text-decoration: none;
+    font-weight: bolder;
 }
 
 #navbar a:hover{
@@ -23,16 +23,27 @@
     border-radius: 4px;
 }
 #para{
-    background-image: url(https://t3.ftcdn.net/jpg/04/16/55/28/360_F_416552831_j8KEhiFQZfxa1ApDtEcBpymSVKHk0cua.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2020/07/08/13/45/switzerland-5383970_1280.jpg);
     background-size: cover;
     height: 400px;
     text-align: left;
     font-size: 20px;
-    padding: 50px;
+    padding: 100px 100px;
     
 }
 #para h4{
     font-size: 24px;
     color: #ffffff;
     padding: 5px;
+}
+#para2 {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(97, 97, 97);
+    padding-top: 200px;
+}
+#para2 p {
+    font-size: small;
+    padding: 10px;
+    color: rgb(255, 255, 255);
 }
